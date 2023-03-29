@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BDLITE</string>
+    <string name="cc">Cédula:</string>
+    <string name="cc1">Ingrese su cédula aquí:</string>
+
+    <string name="nom">Nombre:</string>
+    <string name="nom1">Ingrese su nombre aquí:</string>
+
+    <string name="tel">Teléfono:</string>
+    <string name="tel1">Ingrese su teléfono aquí:</string>
+
+
+    <string name="insert">Insertar:</string>
+    <string name="query">Consultar:</string>
+</resources>
